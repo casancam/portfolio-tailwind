@@ -45,7 +45,7 @@ const Experience = () => {
       id: 6,
       src: nextjs,
       title: 'NextJs',
-      style: 'shadow-white',
+      style: 'shadow-gray-200',
     },
     {
       id: 7,
