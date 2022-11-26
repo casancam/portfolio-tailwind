@@ -12,7 +12,7 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
+        <p className="text-xl small:mt-20">
           I love working on challenging projects. I learned web development
           while I was at university.
           <br />
